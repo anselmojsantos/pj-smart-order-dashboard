@@ -1,0 +1,3 @@
+"id","name","email","password","role","created_at","updated_at"
+b98443db-a823-4818-83bd-50f3d3273645,Wendel,wendel@email.com,$2b$08$gMorA0QJcgTPOrhAsDPoYecGtBWwmNyKS4KOszmTbbA4LGiNfOYI.,user,2025-10-21 21:15:44.131,2025-10-21 21:15:44.131
+d7f0acde-f325-4e3d-9945-60e70fd897e5,Anselmo José dos Santos,anselmo3.santos@gmail.com,$2b$08$0P7KeCsMG.eEFD0a/ZIeu.DlzdyWmOx3Z5k3ij/lzGOjNCqSqER5e,user,2025-10-23 13:12:11.404,2025-10-23 15:06:06.676
