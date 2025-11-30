@@ -34,8 +34,6 @@ Este dashboard foi desenvolvido para fornecer insights valiosos sobre o desempen
 <h3>👨‍💼 Performance da Equipe</h3>
 <ul>
 <li>Ranking de garçons por atendimentos</li>
-<li>Métricas de desempenho individual</li>
-<li>Análise comparativa da equipe</li>
 </ul>
 
 <h3>⭐ Pesquisa de Satisfação</h3>
@@ -43,7 +41,6 @@ Este dashboard foi desenvolvido para fornecer insights valiosos sobre o desempen
 <li>Distribuição das avaliações dos clientes</li>
 <li>Percentuais por classificação (Péssimo a Excelente)</li>
 <li>Gráficos visuais de satisfação</li>
-<li>Métricas de NPS (Net Promoter Score)</li>
 </ul>
 
 <h3>💳 Tipos de Pagamento</h3>
@@ -51,7 +48,6 @@ Este dashboard foi desenvolvido para fornecer insights valiosos sobre o desempen
 <li>Distribuição dos métodos de pagamento</li>
 <li>Análise de valor total por tipo</li>
 <li>Ticket médio por forma de pagamento</li>
-<li>Insights automáticos</li>
 </ul>
 
 <h2>📁 Estrutura de Dados</h2>
