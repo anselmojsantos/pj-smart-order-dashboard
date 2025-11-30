@@ -22,8 +22,8 @@ st.sidebar.title("📊 Resumo Geral")
 with st.sidebar.expander("ℹ️ Sobre o Dashboard"):
     st.markdown(
         """
-         Este dashboard foi desenvolvido para fornecer insights valiosos sobre o desempenho do restaurante, 
-         ele faz parte de outro projeto que envolve um sistema de comanda digital com node.js e react.js. 
+         Este dashboard foi desenvolvido para fornecer insights valiosos sobre o desempenho de um restaurante
+         específico, ele faz parte de outro projeto que envolve um sistema de comanda digital com node.js e react.js. 
          Um projeto Integrador II - Univesp, ele apresenta análises detalhadas sobre movimentação e aceitação 
          dos clientes, projeções futuras, pratos mais vendidos, desempenho dos garçons e feedback dos clientes.
         
@@ -35,7 +35,7 @@ with st.sidebar.expander("ℹ️ Sobre o Dashboard"):
         - Pesquisa de Satisfação
         
         **Desenvolvido por: Grupo do Projeto Integrador II - Univesp 2025
-        
+
         """
     )
 
