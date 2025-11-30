@@ -2,7 +2,7 @@
 
 <h2>📊 Sobre o Projeto</h2>
 <p>
-Este dashboard foi desenvolvido para fornecer insights valiosos sobre o desempenho do restaurante Smart Order. Ele apresenta análises detalhadas sobre movimentação financeira, projeções futuras, pratos mais vendidos, desempenho dos garçons e feedback dos clientes.
+Este dashboard foi desenvolvido para fornecer insights valiosos sobre o desempenho do restaurante, ele faz parte de outro projeto que envolve um sistema de comanda digital com node.js e react.js. Um projeto Integrador II - Univesp, ele apresenta análises detalhadas sobre movimentação e aceitação dos clientes, projeções futuras, pratos mais vendidos, desempenho dos garçons e feedback dos clientes.
 </p>
 
 <h2>🚀 Funcionalidades</h2>
