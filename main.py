@@ -360,7 +360,16 @@ fig_tipo_pag = px.pie(
     tipo_pag,
     names='payment_type',
     values='total',
-    hole=0.2
+    hole=0.2,
+)
+fig_tipo_pag.update_traces(
+    textinfo='percent',
+    insidetextfont=dict(size=28),
+)
+fig_tipo_pag.update_layout(
+    legend=dict(
+        font=dict(size=24)  # tamanho da fonte da legenda
+    )
 )
 col1.markdown("**Distribuição dos Tipos de Pagamento**")
 col1.plotly_chart(fig_tipo_pag, use_container_width=True)
